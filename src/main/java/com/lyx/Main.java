@@ -22,7 +22,7 @@ public class Main
      *    <li>使用方法：将要重命名的图片全放到一个目录中，把目录路径赋给 DIR_PATH 常量.</li>
      * </ul>
      */
-    public static final String DIR_PATH = "/Users/lgf/my-dir/software/cache/dropbox/Dropbox/电脑数据/资源/外观相关/壁纸/操作";
+    public static final String DIR_PATH = "/Users/lgf/my-dir/software/cache/dropbox/Dropbox/电脑数据/资源/外观相关/壁纸";
 
     public static void main(String[] args) throws IOException
     {
